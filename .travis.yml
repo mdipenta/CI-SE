@@ -1,8 +1,8 @@
 language: java
 
-before_cache:
-  rm -f  ~/.gradle/caches/modules-2/modules-2.lock
-  rm -fr ~/.gradle/caches/*/plugin-resolution/
+//before_cache:
+//  rm -f  ~/.gradle/caches/modules-2/modules-2.lock
+//  rm -fr ~/.gradle/caches/*/plugin-resolution/
 cache:
   directories:
     ~/.gradle/caches/
