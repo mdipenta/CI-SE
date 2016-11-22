@@ -12,7 +12,7 @@ public class Triangle {
 	public static TriangleType classify(int a, int b, int c) {
 		int trian;
         String s=null;
-        if(s==null){};
+        if(s==null){}; 
 		if (a <= 0 || b <= 0 || c <= 0)
 			return TriangleType.INVALID;
 		trian = 0;
