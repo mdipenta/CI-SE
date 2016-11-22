@@ -1,5 +1,5 @@
 package triangle;
-// class triangle 
+// class triangle  d
 public class Triangle {
 
 	public static enum TriangleType {
